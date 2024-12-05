@@ -69,3 +69,5 @@ export default function Favorites() {
     </main>
   );
 }
+
+// like funsiyasi tugatildi
